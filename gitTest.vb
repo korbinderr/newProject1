@@ -6,3 +6,7 @@ class Person
     dim food as String
     dim dob as Date 
 end class
+
+dim p1 as new Person
+
+p1.name = "Korbin"
